@@ -51,3 +51,6 @@ And copy the entire contents of `website/out/` into the `filterit-staticsite` S3
 - [Zachary Nicoll](https://github.com/zachnicoll)
 
 - [Audi Bailey](https://github.com/audibailey)
+
+### Infrastructure model
+![zachnicoll_filter-it](https://github.com/zachnicoll/filter-it/assets/173192552/cc4aa5bb-674b-4a81-9d46-e04cdac12d62)
